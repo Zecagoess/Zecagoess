@@ -6,7 +6,7 @@
 
 Olá! Sou José Rafael Goes, um apaixonado programador em transição de carreira. Originalmente formado em Direito e depois de trabalhar alguns anos na área, iniciei meus estudos em programação no ano de 2022 e atualmente estou empolgado para mergulhar aindam ais no mundo da programação e explorar novas oportunidades de aprendizado.
 
-- 🌱 Atualmente estou aprendendo desenvolvimento web com foco em BackEnd, mais especificamente na linguágem de JavaScript com Node.JS pela Cubos Academy.
+- 🌱 Atualmente estou aprendendo desenvolvimento web com foco em BackEnd, mais especificamente na linguágem de JavaScript com Node.JS pela Cubos Academy, mas com muita cede em aprender outras linguágens como Java e Phyton.
 
 ## Habilidades e Interesses
 
