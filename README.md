@@ -9,8 +9,8 @@ Olá! Sou José Rafael Goes, um apaixonado programador em transição de carreir
 
 ## Habilidades e Interesses
 
-- 💻 Linguagens: [HTML, CSS, JavaScript, Java ]
-- 🚀 Tecnologias: [Node.js, SQL, PostgreSQL, Git, Aws, Google Cloud]
+- 💻 Linguagens: [JavaScript, TypeScript ]
+- 🚀 Tecnologias: [HTML, CSS, Node.js, SQL, PostgreSQL, Git, Aws, Google Cloud]
 - 🎨 Design: [User Experience, User Interface]
 
 ## Objetivos
